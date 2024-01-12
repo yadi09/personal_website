@@ -20,6 +20,10 @@ nav a {
   margin: 0 15px;
 }
 
+nav a:hover {
+  color: #f6a105;
+}
+
 main {
   padding: 20px;
 }
