@@ -64,6 +64,11 @@ footer {
   padding: 90px;
 }
 
+.SHORT-MOVIE h2 {
+  margin-top: 100px;
+  margin-bottom: -50px;
+}
+
 .video-container {
   margin: 60px;
   display: flex;
