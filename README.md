@@ -4,16 +4,3 @@ Personal website
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
